@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=dt\ d\ m\ r
+comment0.target=void\ ustawDate(int,\ int,\ int,\ int)
+numComments=1

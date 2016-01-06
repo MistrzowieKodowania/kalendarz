@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Godzinowa()
+comment1.params=godz\ min
+comment1.target=void\ ustawGodziny(int,\ int)
+numComments=2
